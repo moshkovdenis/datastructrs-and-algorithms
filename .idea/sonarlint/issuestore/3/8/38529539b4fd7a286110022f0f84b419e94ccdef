@@ -1,0 +1,20 @@
+
+G
+java:S1125¿")Remove the literal "false" boolean value.(Íøµ8Á¢.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(È­Êóúÿÿÿÿ8Â¤¥¿¢.
+u
+java:S3776Ÿ"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(’û§ãşÿÿÿÿ8Şƒ€Á¢.
+L
+java:S1125¥")Remove the literal "false" boolean value.(Ø¾ñÿÿÿÿÿ8Ëœ‡À¢.
+G
+java:S1125«")Remove the literal "false" boolean value.(Ğƒû‘8Ğá‹À¢.
+=	java:S131z""Add a default case to this switch.(²–ó'8«Öç¿¢.
+s
+java:S1149¦"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(“éóÜùÿÿÿÿ8äñˆÀ¢.
+o
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ª›Ô–8ÍÙÃ¿¢.
+n
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Æ‘ü8¹ü‚À¢.
+f
+java:S2583W"DChange this condition so that it does not always evaluate to "false"(®«–ùÿÿÿÿ8ÍÉ¿¢.

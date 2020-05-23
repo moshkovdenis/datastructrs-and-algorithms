@@ -1,0 +1,11 @@
+
+7
+java:S1643J"Use a StringBuilder instead.(¬ÐÁéùÿÿÿÿ
+m	java:S135."YReduce the total number of break and continue statements in this loop to use at most one.(·º¯
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜Ú¤”
+2
+java:S1643!"Use a StringBuilder instead.(ËìÆÀ
+7
+java:S1643>"Use a StringBuilder instead.(Ó˜ê¦ýÿÿÿÿ
+T
+java:S1226F">Introduce a new variable instead of reusing the parameter "c".(°¤£§

@@ -1,0 +1,15 @@
+
+j	java:S100I"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ¿šÉ8Ñõüæ£.
+C
+java:S1170"!Make this final field static too.(—áğíıÿÿÿÿ8Û“Ñæ£.
+U
+java:S1197"8Move the array designator from the variable to the type.(ú¶ÏÆ8¦ÃÒæ£.
+t	java:S116"SRename this field "INFINITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—áğíıÿÿÿÿ8Û“Ñæ£.
+U
+java:S1197
+"8Move the array designator from the variable to the type.(É8£–Õæ£.
+u	java:S116"TRename this field "MAX_VERTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àçÃáøÿÿÿÿ8Û“Ñæ£.
+C
+java:S1170"!Make this final field static too.(àçÃáøÿÿÿÿ8Û“Ñæ£.
+Z
+java:S1197"8Move the array designator from the variable to the type.(äŒ–ªÿÿÿÿÿ8Û“Ñæ£.

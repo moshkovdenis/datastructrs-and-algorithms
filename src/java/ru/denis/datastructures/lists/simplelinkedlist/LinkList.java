@@ -1,0 +1,35 @@
+package ru.denis.datastructures.lists.simplelinkedlist;
+
+public class LinkList {
+    private Link first;
+
+    public LinkList() {
+        first = null;
+    }
+
+    public boolean isEmty() {
+        return first == null;
+    }
+
+    public void insertFirst(int id, double elem) {
+        Link newLink = new Link(id, elem);
+        newLink.next = first;
+        first = newLink;
+    }
+
+    public Link deleteFirst() {
+        Link temp = first;
+        first = first.next;
+        return temp;
+    }
+
+    public void displayList() {
+        System.out.print("List (first --> last): ");
+        Link current = first;
+        while (current != null) {
+            current.displayLink();
+            current = current.next;
+        }
+        System.out.println();
+    }
+}

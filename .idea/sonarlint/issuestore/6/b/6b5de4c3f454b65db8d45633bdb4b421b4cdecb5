@@ -1,0 +1,12 @@
+
+C
+java:S1170"!Make this final field static too.(—áðíýÿÿÿÿ8‰Üþä£.
+C
+java:S1170"!Make this final field static too.(àçÃáøÿÿÿÿ8â¹üä£.
+u	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(À¤ ˆ8ý‚™å£.
+u	java:S116"TRename this field "MAX_VERTS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àçÃáøÿÿÿÿ8â¹üä£.
+t	java:S116"SRename this field "INFINITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—áðíýÿÿÿÿ8‰Üþä£.
+Z
+java:S1197"8Move the array designator from the variable to the type.(äŒ–ªÿÿÿÿÿ8‰Üþä£.
+U
+java:S1197"8Move the array designator from the variable to the type.(ú¶ÏÆ8ÒÈÿä£.
